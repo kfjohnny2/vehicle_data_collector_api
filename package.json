@@ -1,0 +1,25 @@
+{
+  "name": "vehicle_data_collector_api",
+  "version": "1.0.0",
+  "description": "Api for vehicle data collector",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfjohnny2/vehicle_data_collector_api.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "RESTful"
+  ],
+  "author": "Johnnylee Bryan, Elton Viana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kfjohnny2/vehicle_data_collector_api/issues"
+  },
+  "homepage": "https://github.com/kfjohnny2/vehicle_data_collector_api#readme"
+}
